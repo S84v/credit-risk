@@ -3,4 +3,4 @@
 *.ipynb filter=nbstripout
 *.ipynb diff=ipynb
 loan.csv filter=lfs diff=lfs merge=lfs -text
-credit-risk.ipynb filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
