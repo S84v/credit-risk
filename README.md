@@ -35,4 +35,4 @@ We will cover the following concepts:
 The primary goal of this project is to predict the `loan_status`, determining the likelihood of customers paying their loans on time. This helps financial institutions make informed loan approval decisions and manage risk effectively.
 
 ## 📸 View This Project
-View this project on nbviewer [here]().
+View this project on nbviewer [here](https://nbviewer.org/github/S84v/credit-risk/blob/main/credit-risk.ipynb).
