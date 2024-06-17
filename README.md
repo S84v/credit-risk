@@ -25,7 +25,10 @@ We will cover the following concepts:
    - Perform hyperparameter tuning with Optuna to find the best parameters for our models.
 
 7. **🧪 Model Testing**:
-   - Evaluate models using metrics like accuracy, precision, recall, F1 score, and AUC-classification report to test performance on unseen data.
+   - Evaluate models using metrics like accuracy, precision, recall, F1 score, and classification report to test performance on unseen data.
+  
+8. **⛰️ Git LFS**:
+   - Handle large files using Git LFS.
 
 ## 🎯 Goal
 
