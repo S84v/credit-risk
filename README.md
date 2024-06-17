@@ -1,6 +1,6 @@
 # 📊 Credit Risk Analysis
 
-This project aims to predict credit risk by determining which customers are likely to pay their loans on time and which are not. We will employ various data science techniques and methodologies.
+This project predicts credit risk by determining which customers are likely to pay their loans on time and which are not. We will employ various data science techniques and methodologies.
 
 ## 🎯 Objectives
 
@@ -25,7 +25,7 @@ We will cover the following concepts:
    - Perform hyperparameter tuning with Optuna to find the best parameters for our models.
 
 7. **🧪 Model Testing**:
-   - Evaluate models using metrics like accuracy, precision, recall, F1 score, and AUC-ROC to test performance on unseen data.
+   - Evaluate models using metrics like accuracy, precision, recall, F1 score, and AUC-classification report to test performance on unseen data.
 
 ## 🎯 Goal
 
